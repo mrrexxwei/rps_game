@@ -1,1 +1,1 @@
-# rps_game
+# Rock, Paper, Scissor Game
